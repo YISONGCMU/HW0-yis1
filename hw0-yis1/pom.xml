@@ -4,8 +4,8 @@
 	<artifactId>hw0-yis1</artifactId>
 	<version>0.0.3</version>
 	<scm>
-		<connection>scm:git:git@github.com:YISONGCMU/hw0-yis1.git</connection>
-		<developerConnection>scm:git:git@github.com:YISONGCMU/hw0-yis1.git</developerConnection>
+		<connection>scm:git:git@github.com:YISONGCMU/HW0-yis1.git</connection>
+		<developerConnection>scm:git:git@github.com:YISONGCMU/HW0-yis1.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
